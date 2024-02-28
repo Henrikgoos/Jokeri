@@ -1,0 +1,10 @@
+table{
+    border-spacing: 20px;
+}
+
+a{
+    border: 1px solid;
+    padding: 3px;
+    border-radius: 25px;
+    background-color: yellow;
+}
